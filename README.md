@@ -41,3 +41,4 @@ The website is designed to be responsive, ensuring a seamless experience on both
 
 ## Animations
 JavaScript is used to add interactive animations to enhance user experience.
+# Made with ❤️ by Tushnika.
